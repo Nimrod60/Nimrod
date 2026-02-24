@@ -5013,7 +5013,7 @@
 1401483 | C9S27 Parachute
 1401484 | Noh Mask Arsenal Parachute
 1401485 | Peaky Blinders Parachute
-1401486 | New
+1401486 | The King of Fighters Parachute
 1401487 | Veiled Mirage Parachute
 1401488 | Fateful Spirit Parachute
 1401489 | Season Series Parachute (2026H1)
@@ -9680,12 +9680,12 @@
 1407795 | Arthur Shelby Character Set
 1407796 | Thomas Shelby Mobster Set
 1407797 | Thomas Shelby Suit Set
-1407798 | New
-1407799 | New
-1407800 | New
-1407801 | New
-1407802 | New
-1407803 | New
+1407798 | Iori Yagami Character Set
+1407799 | Luxe Overlord Set
+1407800 | Mai Shiranui Character Set
+1407801 | Nakoruru Character Set
+1407802 | Blaze Dancer Set
+1407803 | Nimble Feline Set
 1407804 | Heart Hacker Set
 1407805 | Party Bunny Set
 1407806 | Sweet Influencer Set
@@ -9708,12 +9708,12 @@
 1407823 | New
 1407824 | New
 1407825 | New
-1407826 | New
-1407827 | New
-1407828 | New
-1407829 | New
+1407826 | PUBGM X aespa KARINA set
+1407827 | PUBGM X aespa GISELLE set
+1407828 | PUBGM X aespa WINTER set
+1407829 | PUBGM X aespa NINGNING set
 1407830 | Revel 01 Set
-1407831 | New
+1407831 | Al Shami Stylish Set
 1407832 | Tailgate Craze Set
 1407833 | Wolf Maiden Set
 1407834 | Eternal Restora Set
@@ -21948,7 +21948,7 @@
 1601067 | Super Sonic Buddy Set
 1601068 | Ghostly Kitty Buddy Set
 1601069 | Detective Bark Buddy Set
-1601070 | New
+1601070 | Mamahaha Buddy Set
 1601071 | Astral Wings Buddy Set
 1601072 | Obsidian Hunter Buddy Set
 1602001 | Expired Items
@@ -27071,7 +27071,7 @@
 1900853 | Not Your Type Basic Voice
 1900854 | Simpp Basic Voice
 1900855 | Zgod Basic Voice
-1900856 | New
+1900856 | PUBG MOBILE × aespa Voice Card (Event)
 1901001 | Motorcycle
 1901002 | 炫酷摩托车皮肤（测试）
 1901003 | Hot Pizza 2-Seat Motorcycle
@@ -27161,8 +27161,8 @@
 1901102 | Corrupted Vesper 2-Seat Motorcycle (Lv. 4)
 1901103 | Tokyo Revengers Motorcycle
 1901104 | Sable Forest Motorcycle
-1901105 | Royal Enfield Continental GT 650
-1901106 | Royal Enfield Bullet 350
+1901105 | Royal Enfield Bullet 350
+1901106 | Royal Enfield Continental GT 650
 1901500 | Arslan Ash Urdu Voice Pack (Ultimate Edition)
 1901501 | Arslan Ash Urdu Voice Pack (Basic Edition)
 1901502 | Capi Gaming Voice Pack (Basic Edition)
@@ -29064,7 +29064,7 @@
 2103133 | PUBGM_Match_RoomCard_045
 2103134 | PUBGM_Match_RoomCard_046
 2103135 | PUBGM_Match_RoomCard_047
-2103136 | PUBGM_Match_RoomCard_048
+2103136 | Tournament Room Card - IN/Pune Ⅱ (1Use)
 2103137 | PUBGM_Match_RoomCard_049
 2103138 | PUBGM_Match_RoomCard_050
 2103139 | PUBGM_Match_RoomCard_051
@@ -34973,8 +34973,8 @@
 12220730 | Super Handshake
 12220731 |  
 12220732 | Cricket Emote
-12220733 | New
-12220734 | New
+12220733 | PUBGM X aespa - Whiplash
+12220734 | PUBGM X aespa - Dark Arts
 12220735 | Step & Sway
 12220736 |  
 12220737 |  
@@ -35603,10 +35603,10 @@
 19200107 | Not Your Type Special Voice
 19200108 | Simpp Special Voice
 19200109 | Zgod Special Voice
-19200110 | New
-19200111 | New
-19200112 | New
-19200113 | New
+19200110 | PUBGM X aespa KARINA voice
+19200111 | PUBGM X aespa GISELLE voice
+19200112 | PUBGM X aespa WINTER voice
+19200113 | PUBGM X aespa NINGNING voice
 19530100 | 苍穹统御 -盒子
 19530101 | 苍穹统御 -战斗盒子
 19530110 | 钢魄威临 -盒子
@@ -40158,8 +40158,8 @@
 417004425 | Snow Weasel Ornament
 417004426 | Frosty Kiss Ornament
 417004427 | Noh Mask Talisman Ornament
-417004428 | New
-417004429 | New
+417004428 | Chibi Iori Yagami Ornament
+417004429 | KOF '97 Ornament
 417004430 | Veiled Incense Ornament
 417004431 | Pegasus Sculpture Ornament
 417004432 | Endless Yearning Ornament
@@ -47568,7 +47568,7 @@
 1101001264 | Sandspring Dominion - AKM (Lv. 7)
 1101001265 | Sandspring Dominion - AKM (Lv. 8)
 1101001266 | Violet Revenant - AKM
-1101001267 | New
+1101001267 | PUBGM X aespa - AKM
 1101002001 | Regal - M16A4
 1101002002 | Sci-Fi - M16A4
 1101002003 | Galaxy - M16A4
@@ -47687,7 +47687,7 @@
 1101002141 | PUBG MOBILE × G-DRAGON - M16A4 (Lv. 4)
 1101002142 | PUBG MOBILE × G-DRAGON - M16A4 (Lv. 5)
 1101002143 | Glacial Snowfield - M16A4
-1101002144 | New
+1101002144 | Mai Shiranui - M16A4
 1101002145 | Celadon Aether - M16A4 (Lv. 1)
 1101002146 | Celadon Aether - M16A4 (Lv. 2)
 1101002147 | Celadon Aether - M16A4 (Lv. 3)
@@ -49796,7 +49796,7 @@
 1105001074 | Predator Protocol - M249 (Lv. 4)
 1105001075 | Predator Protocol - M249 (Lv. 5)
 1105001076 | C9S27 - M249
-1105001077 | New
+1105001077 | PUBGM X aespa - M249
 1105002001 | Silver Plate - DP-28
 1105002011 | Street Art - DP-28
 1105002012 | Shark's Bite - DP28
@@ -50039,7 +50039,7 @@
 1108001090 | Kikoru Shinomiya - Machete
 1108001091 | Cube Wispon - Machete
 1108001092 | Foe Splitter - Machete
-1108001093 | Razor Newsboy Hat
+1108001093 | Razor Newsboy Hat - Machete
 1108001094 | Lucky Fishing Rod - Machete
 1108002001 | Hockey Stick - Crowbar
 1108002003 | Golden Scepter - Crowbar
@@ -50421,12 +50421,12 @@
 1108004411 | Baby Seal Snowmobile
 1108004412 | Fury Rocket Launcher
 1108004413 | Fury Rocket Launcher
-1108004414 | New
-1108004415 | New
-1108004416 | New
+1108004414 | Flame Dance Fan - Pan (Lv. 1)
+1108004415 | Flame Dance Fan - Pan (Lv. 2)
+1108004416 | Flame Dance Fan - Pan (Lv. 3)
 1108004417 | Arcane Mirror - Pan
 1108004418 | New
-1108004419 | New
+1108004419 | PUBGM X aespa - Pan
 1108004420 | Pollen Smoke
 1108004421 | Five-Color Deer
 1108004422 | Fluorescent Vine
@@ -51019,7 +51019,7 @@
 1501000692 | Bamboo Treat Backpack
 1501000693 | Dune Prince Backpack
 1501000694 | Locked & Loaded Backpack
-1501000695 | New
+1501000695 | Arcade KO Backpack
 1501000696 | Veiled Enchantress Backpack
 1501000697 | Celadon Aether Backpack
 1501000698 | Well of Souls Backpack
@@ -51621,8 +51621,8 @@
 1501001691 | Turbo Granny(Beckoning cat) Backpack (Lv. 1)
 1501001692 | Bamboo Treat Backpack (Lv. 1)
 1501001693 | Dune Prince Backpack (Lv. 1)
-1501001694 |  
-1501001695 | New
+1501001694 | Locked & Loaded Backpack (Lv. 1)
+1501001695 | Arcade KO Backpack (Lv. 1)
 1501001696 | Veiled Enchantress Backpack (Lv. 1)
 1501001697 | Celadon Aether Backpack (Lv. 1)
 1501001698 | Well of Souls Backpack (Lv. 1)
@@ -52224,8 +52224,8 @@
 1501002691 | Turbo Granny(Beckoning cat) Backpack (Lv. 2)
 1501002692 | Bamboo Treat Backpack (Lv. 2)
 1501002693 | Dune Prince Backpack (Lv. 2)
-1501002694 |  
-1501002695 | New
+1501002694 | Locked & Loaded Backpack (Lv. 2)
+1501002695 | Arcade KO Backpack (Lv. 2)
 1501002696 | Veiled Enchantress Backpack (Lv. 2)
 1501002697 | Celadon Aether Backpack (Lv. 2)
 1501002698 | Well of Souls Backpack (Lv. 2)
@@ -52827,8 +52827,8 @@
 1501003691 | Turbo Granny(Beckoning cat) Backpack (Lv. 3)
 1501003692 | Bamboo Treat Backpack (Lv. 3)
 1501003693 | Dune Prince Backpack (Lv. 3)
-1501003694 |  
-1501003695 | New
+1501003694 | Locked & Loaded Backpack (Lv. 3)
+1501003695 | Arcade KO Backpack (Lv. 3)
 1501003696 | Veiled Enchantress Backpack (Lv. 3)
 1501003697 | Celadon Aether Backpack (Lv. 3)
 1501003698 | Well of Souls Backpack (Lv. 3)
@@ -53223,11 +53223,11 @@
 1502000473 | Noh Mask Ninja Helmet
 1502000474 | Panda Darling Helmet
 1502000475 | Dune Prince Helmet
-1502000476 | New
+1502000476 | Arcade KO Helmet
 1502000477 | Jade Viper Helmet
 1502000478 | Fragmented Moon Helmet
 1502000479 | Lotus Koi Helmet
-1502000480 | New
+1502000480 | PUBGM X aespa helmet
 1502000481 | CrankGuard Helmet
 1502000482 | S28 Helmet
 1502001001 | Hot Pizza Helmet (Lv. 1)
@@ -53633,11 +53633,11 @@
 1502001473 | Noh Mask Ninja Helmet (Lv. 1)
 1502001474 | Panda Darling Helmet (Lv. 1)
 1502001475 | Dune Prince Helmet (Lv. 1)
-1502001476 | New
+1502001476 | Arcade KO Helmet (Lv. 1)
 1502001477 | Jade Viper Helmet (Lv. 1)
 1502001478 | Fragmented Moon Helmet (Lv. 1)
 1502001479 | Lotus Koi Helmet (Lv. 1)
-1502001480 | New
+1502001480 | PUBGM X aespa helmet(Lv.1)
 1502001481 | CrankGuard Helmet (Lv. 1)
 1502001482 | S28 Helmet (Lv. 1)
 1502002001 | Hot Pizza Helmet (Lv. 2)
@@ -54043,11 +54043,11 @@
 1502002473 | Noh Mask Ninja Helmet (Lv. 2)
 1502002474 | Panda Darling Helmet (Lv. 2)
 1502002475 | Dune Prince Helmet (Lv. 2)
-1502002476 | New
+1502002476 | Arcade KO Helmet (Lv. 2)
 1502002477 | Jade Viper Helmet (Lv. 2)
 1502002478 | Fragmented Moon Helmet (Lv. 2)
 1502002479 | Lotus Koi Helmet (Lv. 2)
-1502002480 | New
+1502002480 | PUBGM X aespa helmet(Lv.2)
 1502002481 | CrankGuard Helmet (Lv. 2)
 1502002482 | S28 Helmet (Lv. 2)
 1502003001 | Hot Pizza Helmet (Lv. 3)
@@ -54453,11 +54453,11 @@
 1502003473 | Noh Mask Ninja Helmet (Lv. 3)
 1502003474 | Panda Darling Helmet (Lv. 3)
 1502003475 | Dune Prince Helmet (Lv. 3)
-1502003476 | New
+1502003476 | Arcade KO Helmet (Lv. 3)
 1502003477 | Jade Viper Helmet (Lv. 3)
 1502003478 | Fragmented Moon Helmet (Lv. 3)
 1502003479 | Lotus Koi Helmet (Lv. 3)
-1502003480 | New
+1502003480 | PUBGM X aespa helmet(Lv.3)
 1502003481 | CrankGuard Helmet (Lv. 3)
 1502003482 | S28 Helmet (Lv. 3)
 1504000001 | Hot Pizza Backpack
@@ -54507,3 +54507,4 @@
 2103004003 | Skeleton Hand - SKS (7d)
 2108004002 | Two Eggs - Pan (7d)
 1411051 | Crying Cat Mask
+4600309 | Al Shami - Wayli
